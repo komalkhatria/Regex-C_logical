@@ -67,6 +67,7 @@ Q4) 12342
 ---------------------------------------------------------------
 
 Q5) 34+78
+
     int a, b, result= 0;
     printf("Enter integer 1: ");
     scanf("%d", &a);
@@ -83,6 +84,7 @@ Sum of both numbers: 112
 -----------------------------------------------------------
 
 Q6) 23-6
+
     int a, b, result=0;
     printf("Enter integer 1: ");
     scanf("%d", &a);
@@ -99,6 +101,7 @@ Enter integer 2: 6
 -----------------------------------------------------------
 
 Q7) 45*2
+
     int a, b, result=0;
     printf("Enter integer 1: ");
     scanf("%d", &a);
@@ -115,6 +118,7 @@ Enter integer 2: 2
 -----------------------------------------------------------
 
 Q8) 56/2
+
     int a, b, result=0;
     printf("Enter integer 1: ");
     scanf("%d", &a);
@@ -131,6 +135,7 @@ Enter integer 2: 2
 ------------------------------------------------------------
 
 Q9) 45+78+23+12
+
     int a, b, c, d, result=0;
     printf("Enter integer 1: ");
     scanf("%d", &a);
@@ -153,6 +158,7 @@ Enter integer 4: 12
 ---------------------------------------------------------
 
 Q10) 56*34+12/2-13
+
     int a, b, c, d, e, result=0;
     printf("Enter integer 1: ");
     scanf("%d", &a);
@@ -203,6 +209,7 @@ Enter an integer: 2
 -----------------------------------------------------
 
 Q12) 1.6*(12-2)/2+7.8-1.5
+
     float a, d, e, result=0;
     int b, c;
     printf("Enter a decimal no.: ");
@@ -230,6 +237,7 @@ Enter a decimal no.: 1.5
 --------------------------------------------------------
 
 Q13) 4.5*1.2-(82/2)-5.6 +1.234
+
     float a, b, e, f, result=0;
     int c, d;
     printf("Enter a decimal no.: ");
@@ -287,6 +295,7 @@ Enter integer 5: 6
 -----------------------------------------------------
 
 Q15) 3.4+1.2*(3.7-1.2)/2+6.8 
+
     float a, b, c, e, result=0;
     int d;
     printf("Enter a decimal no.: ");
@@ -314,6 +323,7 @@ Enter a decimal no.: 6.8
 --------------------------------------------------------
 
 Q16) 8.9*1.67-(6.21-5.6)+7.8-34 +157 
+
     float a, b, c, d, e, result=0;
     int f, g;
     printf("Enter a decimal no.: ");
