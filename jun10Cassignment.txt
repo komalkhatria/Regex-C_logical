@@ -1,0 +1,128 @@
+#include<stdio.h>
+int main(){
+
+Q1) 34+78 
+    int a=34;
+    int b=78;
+    int result= a+b;
+    printf("%d", result);
+
+-----------------------------------------
+
+Q2) 23-6
+    int a=23;
+    int b=6;
+    int result= a-b;
+    printf("%d", result);
+
+-----------------------------------------
+
+Q3) 45*2
+
+    int a=45;
+    int b=2;
+    int result= a*b;
+    printf("%d", result);
+
+-----------------------------------------
+
+Q4) 56/2 
+    int a=56;
+    int b=2;
+    int result= a/b;
+    printf("%d", result);
+
+-----------------------------------------
+
+Q5) 45+78+23+12 
+    int a=45;
+    int b=78;
+    int c=23;
+    int d=12;
+    int result= a+b+c+d;
+    printf("%d", result);
+
+-----------------------------------------
+
+Q6) 56*34+12/2-13 
+    int a=56;
+    int b=34;
+    int c=12;
+    int d=2;
+    int e=13;
+    int result= a*b+c/d-e;
+    printf("%d", result);
+
+-----------------------------------------
+
+Q7) 1.2*6.7-4.5/2  
+    float a=1.2;
+    float b=6.7;
+    int c=4.5;
+    int d=2;
+    float result= a*b-c/d;
+    printf("%f", result);
+
+-----------------------------------------
+
+Q8) 1.6*(12-2)/2+7.8-1.5   
+    float a=1.6;
+    int b=12;
+    int c=2;
+    float d=7.8;
+    float e=1.5;
+    float result= a*(b-c)/c+d-e;
+    printf("%f", result);
+
+-----------------------------------------
+
+Q9) 4.5*1.2-(82/2)-5.6 +1.234   
+    float a=4.5;
+    float b=1.2;
+    int c=82;
+    int d=2;
+    float e=5.6;
+    float f=1.234;
+    float result= a*b-(c/d)-e+f;
+    printf("%f", result);
+
+-----------------------------------------
+
+Q10) 8*1+(4-2)/1+6   
+    int a=8;
+    int b=1;
+    int c=4;
+    int d=2;
+    int e=6;
+    int result= a*b+(c-d)/b+e;
+    printf("%d", result);
+
+-----------------------------------------
+
+Q11) 3.4+1.2*(3.7-1.2)/2+6.8   
+    float a=3.4;
+    float b=1.2;
+    float c=3.7;
+    int d=2;
+    float e=6.8;
+    float result= a+b*(c-b)/d+e;
+    printf("%f", result);
+
+-----------------------------------------
+
+Q12) 8.9*1.67-(6.21-5.6)+7.8-34 +157   
+    float a=8.9;
+    float b=1.67;
+    float c=6.21;
+    float d=5.6;
+    float e=7.8;
+    int f=34;
+    int g=157;
+    float result= a*b-(c-d)+e-f+g;
+    printf("%f", result);
+
+-----------------------------------------
+
+    return 0;
+
+}
